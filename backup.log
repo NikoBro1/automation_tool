@@ -1,0 +1,5 @@
+2025-05-21 22:22:24,850 - INFO - Backup started.
+2025-05-21 22:22:24,852 - INFO - Backup successful: backups\backup_20250521222224.zip
+2025-05-21 22:22:37,928 - INFO - "GET /?state=RpdVHvvLXgK0LPXuscR7eQ8WkbmF6X&code=4/0AUJR-x5CAB7BCiYFz3nGIBJVOOoJz1EltBilZMs3u8LmSc6_sUnhrE9G07r2riABFBTnAA&scope=https://www.googleapis.com/auth/drive.file HTTP/1.1" 200 65
+2025-05-21 22:22:38,159 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-21 22:22:39,688 - INFO - Uploaded to Google Drive: https://drive.google.com/file/d/1yKIHykRVnk7bOmPHl6nJ158ORKfFjjl7/view
